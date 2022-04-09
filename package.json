@@ -4,14 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js",
-    "dev": "node ./index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-dev-jan-2022/lab-mongoose-recipes.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-dev-jan-2022/lab-mongoose-recipes/issues"
+  },
+  "homepage": "https://github.com/web-dev-jan-2022/lab-mongoose-recipes#readme",
   "dependencies": {
-    "mongoose": "^6.1.2"
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
   }
 }
