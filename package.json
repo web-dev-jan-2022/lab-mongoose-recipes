@@ -19,6 +19,7 @@
   "homepage": "https://github.com/web-dev-jan-2022/lab-mongoose-recipes#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "mongoose": "^6.8.2",
     "nodemon": "^2.0.15"
   }
 }
